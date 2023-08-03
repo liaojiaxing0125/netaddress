@@ -10,5 +10,8 @@
         <module name="txtbank" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="txtbank1" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

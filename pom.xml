@@ -22,6 +22,7 @@
     </build>
     <modules>
         <module>txtbank</module>
+        <module>txtbank1</module>
     </modules>
     <dependencies>
         <dependency>
