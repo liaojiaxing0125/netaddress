@@ -1,0 +1,290 @@
+2023-07-27 09:13:35,405 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:13:35,448 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:22:12,698 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:22:12,718 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:23:56,439 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:23:56,519 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:23:59,834 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:24:02,748 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:25:34,618 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:25:34,637 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:25:37,311 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:29:32,227 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:29:32,257 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:29:34,363 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:29:41,417 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:29:41,437 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:29:43,659 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:30:22,138 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:30:22,160 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:30:26,075 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:30:34,167 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:30:34,200 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:30:36,890 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:31:14,377 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:31:14,408 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:31:16,395 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:31:17,888 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:31:21,560 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:31:21,587 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:31:32,307 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:31:32,327 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:31:32,782 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:50:39,485 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:50:39,510 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:51:24,921 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:51:54,157 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:51:54,181 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:52:00,158 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:52:02,498 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:53:45,607 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:53:45,625 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:53:55,926 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:54:07,880 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:54:07,904 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:54:14,595 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:54:43,811 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:54:43,835 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:54:55,045 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:55:28,451 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:56:01,725 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:56:01,745 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:56:03,880 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:56:05,425 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:56:41,779 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:56:41,806 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:56:49,244 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:57:08,394 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:57:08,420 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:57:13,814 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:57:26,053 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:57:26,079 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:57:27,769 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:57:58,164 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:57:58,199 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:58:00,900 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:58:19,289 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:58:19,324 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:58:21,890 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:58:59,115 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:58:59,135 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:59:02,027 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:59:02,044 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:59:04,706 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:59:53,334 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 09:59:53,364 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 10:00:03,941 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 10:00:41,348 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 10:00:44,534 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 10:00:48,414 main  DEBUG [com.it.httpServer.TomcatServer] 
+
+2023-07-27 10:01:42,774 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:01:42,794 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:01:42,821 main  ERROR [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:01:42,821 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:02:33,277 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:02:33,299 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:02:43,887 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:03:07,506 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:03:07,524 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:03:10,153 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:03:17,431 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:04:45,293 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:04:45,323 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:04:49,264 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:05:48,613 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:05:48,635 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:05:54,288 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:12:38,523 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:13:02,529 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:13:22,308 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:13:29,595 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:16:24,042 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:16:24,072 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:16:57,242 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:17:07,592 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:17:56,892 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:17:56,922 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:17:57,313 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:18:53,325 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:18:53,342 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:19:23,846 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:19:41,329 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:25:34,291 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:25:34,316 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:25:34,321 main  INFO  [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:25:45,614 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:32:04,581 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:32:04,601 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:32:04,611 main  INFO  [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:32:08,558 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 10:32:08,611 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:18,985 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:19,060 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:30,931 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:30,978 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:30,979 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:30,979 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:30,980 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:30,981 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:30,981 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:30,982 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:30,982 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:30,982 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:30,982 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:31,007 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:31,007 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:31,007 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:31,008 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:31,009 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:31,009 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:31,022 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:31,028 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:31,031 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:31,034 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:31,038 main  DEBUG [com.it.httpServer1.TomcatServer] 
+
+2023-07-27 11:25:31,044 main  DEBUG [com.it.httpServer1.TomcatServer] 
+

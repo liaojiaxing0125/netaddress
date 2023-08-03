@@ -1,0 +1,13 @@
+servle服务器提供动态资源(class字节码文件)-》xxxServlet.class访问
+1.servlet动态资源实际上一个java代码运行在jvm上
+服务器开发商-接受参数-》parameterMap
+应用网站开发人员serlvet(parameterMap-取参数)
+
+
+要解决的问题
+serlvet的读取
+服务器启动到扫描到:所有的class文件,判断哪些类有@webServlet,有则保存到Map<String,Servlet.class>
+技术解决方案:注解解析
+ @webservlet和继承HttpServlet
+ 类扫描:递归扫描
+ Map<String,Servlet>//Map</hello,helloServlet>放在HttpSession-ServletContext(服务器的全局对象)

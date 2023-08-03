@@ -1,0 +1,34 @@
+浏览器:http://localhost:8090/wowotuan/index.html
+显示
+请求部分:(浏览器自动实现)
+GET /wowotuan/index.html HTTP/1.1
+Referer:XXXX
+user-Agent
+
+服务器响应部分
+HTTP/1.1 200 OK
+Accept-Ranges:bytes
+Content-Length:3274
+Content-Type:Text/html
+
+
+服务器功能:接受客户端的请求相对路径(System.getproperty("user.dir"))+请求的路径
+查找的资源不存在就回一个404页面,发送的资源不存在
+
+存在:
+读取资源:文件输入流
+响应的协议
+HTTP/1.1 200 ok
+Content-Type:响应什么样的内容用什么引擎
+text/css:css引擎
+text/html:html引擎
+text/javascript:js引擎
+
+用到技术:
+socket
+log4j
+属性梳理
+xml文件
+json文件:Gson.tojoin()
+xml解析-dom解析和sex解析-现在框架
+document.getelementbytagname
